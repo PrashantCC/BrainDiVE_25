@@ -58,6 +58,11 @@ This repository contains all the experiments performed using **ViT-based** and *
 
 ## 🔷 Gaziv-Based Encoder Experiments
 
+> 📂 **Code Path:**  
+> `/data6/home2/spshubham/prashant/scripts/BrainDiVE/joint_encoder_master_with_gaziv`
+
+---
+
 ### `main`
 - **Description**: Original Gaziv encoder trained on the **Algonauts dataset** with **full fMRI**.
 - **Results Path**:  
