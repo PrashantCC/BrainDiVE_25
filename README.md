@@ -44,6 +44,18 @@ This repository contains all the experiments performed using **ViT-based** and *
 
 ---
 
+### `vit_dino`
+- **Description**: Encoder use ViT trained on DINO task(distillatiuon with no labels).
+- **Results Path**:  
+  `/data6/home2/spshubham/prashant/data/results_jointencoder_master_VIT_DINO`
+---
+
+### `vit_imagenet`
+- **Description**: Encoder uses ViT trained on classification task with Imagenet dataset
+- **Results Path**:  
+  `/data6/home2/spshubham/prashant/data/results_jointencoder_master_VIT_imagenet`
+---
+
 ## 🔷 Gaziv-Based Encoder Experiments
 
 ### `main`
